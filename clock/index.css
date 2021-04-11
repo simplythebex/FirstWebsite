@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: rgb(241, 106, 136);
+}
+
+h1 {
+    font-family: 'Train One', cursive;
+    font-size: 60px;
+}
+
+h4 {
+    font-family: 'Inconsolata', monospace;
+    font-size: 35px;
+}
+
+h4 #clock {
+    font-size: 36px;
+    display: block;
+    padding: 5px 0px;
+  }
+
+blockquote {
+    font-family: 'Inconsolata', monospace;
+    font-size: 35px;
+}
